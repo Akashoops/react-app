@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col';
 import React from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import './colour.css';
 function App(props)  {
   let district=[
     {
